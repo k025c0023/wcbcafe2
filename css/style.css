@@ -246,10 +246,12 @@ img {
         font-size: 2rem;
     }
 }
-/* ヘッダーがバー画像 */
+/* ヘッダーカバー画像 */
 .sub-cover {
-    height: 400px;
-    margin-bottom: 6rem;
+    background-size: cover;
+    background-position: center bottom;
+    height: 528px;
+    margin-bottom: 4rem;
 }
 
 /* HOME */
@@ -261,7 +263,7 @@ img {
 }
 /* NEWS */
 .cover-news {
-    background-image: url(../images/cover-news-l.webp);
+    background-image: url(../images/cover-news-s.webp);
 }
 .news-contents {
     display: flex;
