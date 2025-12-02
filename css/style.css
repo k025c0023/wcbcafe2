@@ -94,7 +94,7 @@ img {
 /* HOME
 -------------------------*/
 .cover-home {
-    background-image: url(../images/cover-home-s.jpg);
+    background-image: url(../images/cover-home-s.webp);
 }
 .about {
     max-width: 736px;
@@ -108,7 +108,7 @@ img {
 /* NEWS
 -------------------------*/
 .cover-news {
-    background-image: url(../images/cover-news-s.webp);
+    background-image: url(../images/cover-news-l.webp);
 }
 /*記事部分*/
 .post {
@@ -134,7 +134,7 @@ img {
     color: #432;
     background-color: #faf7f0;
     border-radius: 8px;
-    font-size: 875rem;
+    font-size: .875rem;
     padding: .5rem .75rem;
 
 }
@@ -256,7 +256,7 @@ img {
 
 /* HOME */
 .cover-home {
-    background-image: url(../images/cover-home-l.webp);
+    background-image: url(../images/cover-news-l.webp);
 }
 .about {
     margin: 4rem auto 0;
